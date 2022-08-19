@@ -5,5 +5,5 @@ Host fox2
 	HostName 10.100.240.202
 	User sxo511
 Host fox3
-	HostName 10.100.240.202
+	HostName 10.100.240.203
 	User sxo511
